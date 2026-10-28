@@ -1,7 +1,7 @@
 
 # Hi, I'm Imesh Silva 👋
 
-### Network Engineering | DevOps | Cloud Infrastructure | Cybersecurity
+### Automation Engineering | DevOps | Cloud Infrastructure 
 
 I'm an IT professional with hands-on experience in network administration, infrastructure monitoring, Linux server management, cloud technologies, and AI-powered automation. I enjoy building reliable systems, automating operational workflows, and exploring practical cybersecurity solutions.
 
@@ -38,7 +38,6 @@ I'm an IT professional with hands-on experience in network administration, infra
 
 | Category | Technologies & Tools |
 |---|---|
-| Networking | TCP/IP, DNS, DHCP, WireGuard VPN, network troubleshooting |
 | Operating Systems | Linux, Ubuntu, Windows, Windows Server |
 | Cloud Platforms | AWS (EC2, S3, VPC, IAM), Google Cloud Platform, DigitalOcean, Oracle Cloud Infrastructure |
 | Infrastructure as Code | Terraform, Terraform modules |
